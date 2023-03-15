@@ -1,6 +1,14 @@
 [
   {
+    "package": "IPDFileCheck",
+    "oncran": true
+  },
+  {
     "package": "packDAMipd",
+    "oncran": true
+  },
+  {
+    "package": "valueEQ5D",
     "oncran": true
   }
 ]

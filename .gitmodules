@@ -3,8 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "IPDFileCheck"]
+	path = IPDFileCheck
+	url = https://github.com/sheejamk/ipdfilecheck
+	shallow = true
+	registered = true
 [submodule "packDAMipd"]
 	path = packDAMipd
 	url = https://github.com/sheejamk/packdamipd
+	shallow = true
+	registered = true
+[submodule "valueEQ5D"]
+	path = valueEQ5D
+	url = https://github.com/sheejamk/valueeq5d
 	shallow = true
 	registered = true
