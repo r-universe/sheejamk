@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "IPDFileCheck"]
-	path = IPDFileCheck
-	url = https://github.com/sheejamk/ipdfilecheck
 [submodule "valueEQ5D"]
 	path = valueEQ5D
 	url = https://github.com/sheejamk/valueeq5d
